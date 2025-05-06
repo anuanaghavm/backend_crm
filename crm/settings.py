@@ -142,10 +142,10 @@ AUTHENTICATION_BACKENDS = [
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'crm_backend',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres123',
-        'HOST': 'localhost',
+        'NAME': 'crm_backend_wz3z',
+        'USER': 'crm_backend_wz3z_user',
+        'PASSWORD': 'L0YPtAM1hQ34ZVea39uOqrFRVlX0GmUF',  # Replace with actual password
+        'HOST': 'dpg-d0cqqf6mcj7s73artevg-a.oregon-postgres.render.com',
         'PORT': '5432',
     }
 }
